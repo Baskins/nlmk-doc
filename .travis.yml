@@ -5,6 +5,7 @@ install:
   - yarn install
 script:
   - yarn docs:build
+  - echo doc.nlmk.online > docs/.vitepress/dist/CNAME
 deploy:
   provider: pages
   skip_cleanup: true
