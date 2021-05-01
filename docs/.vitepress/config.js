@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/nlmk-doc/',
   lang: 'ru-RU',
   title: 'Клиент инфо 2',
   description: 'Документация для личного кабинета "Клиент инфо 2" оптовых клиентов НЛМК.',
