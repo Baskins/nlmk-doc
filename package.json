@@ -1,0 +1,21 @@
+{
+  "name": "nlmk-doc",
+  "version": "1.0.0",
+  "description": "Documentation for NLMK online project",
+  "main": "index.js",
+  "repository": "https://github.com/Baskins/nlmk-doc",
+  "bugs": {
+    "url": "https://github.com/Baskins/nlmk-doc/issues"
+  },
+  "author": "Savchenko Sasha",
+  "license": "MIT",
+  "private": false,
+   "scripts": {
+     "docs:dev": "vitepress dev docs",
+     "docs:build": "vitepress build docs",
+     "docs:serve": "vitepress serve docs"
+   },
+  "devDependencies": {
+    "vitepress": "^0.13.2"
+  }
+}
