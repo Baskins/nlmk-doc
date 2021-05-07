@@ -17,8 +17,8 @@ module.exports = {
     lastUpdated: 'последнее изменение',
 
     algolia: {
-      apiKey: 'c57105e511faa5558547599f120ceeba',
-      indexName: 'vitepress'
+      apiKey: '<API_KEY>',
+      indexName: '<INDEX_NAME>'
     },
 
     nav: [
