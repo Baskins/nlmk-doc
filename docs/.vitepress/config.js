@@ -2,12 +2,16 @@ module.exports = {
   base: '/',
   lang: 'ru-RU',
   title: 'Клиент инфо 2',
-  description: 'Документация для личного кабинета "Клиент инфо 2" оптовых клиентов НЛМК.',
+  description: 'Документация личного кабинета для оптовых клиентов НЛМК.',
+  head: [['link', { rel: 'icon', type: 'image/png', href: '/nlmk-doc-favicon.png' }]],
 
   themeConfig: {
-    repo: 'Baskins/nlmk-doc',
+//    repo: 'Baskins/nlmk-doc',
+    logo: '/nlmk-logotype.png',
     docsDir: 'docs',
 
+    searchPlaceholder: 'Поиск...',
+    
     editLinks: true,
     editLinkText: 'Править документацию на GitHub',
     lastUpdated: 'последнее изменение',
@@ -18,10 +22,14 @@ module.exports = {
     },
 
     nav: [
-      { text: 'Руководство пользователя', link: '/guide', activeMatch: '^/$|^/guide/' },
+      {
+        text: 'Руководство пользователя',
+        link: '/guide/',
+        activeMatch: '^/guide/'
+      },
       {
         text: 'API НЛМК Connect',
-        link: '/api',
+        link: '/api/',
         activeMatch: '^/api/'
       },
       {
@@ -43,17 +51,18 @@ function getGuideSidebar() {
     {
       text: 'Введение',
       children: [
-        { text: 'Зачем вам личный кабинет?', link: '/' },
-        { text: 'Как подлючиться', link: '/guide/new-registration' },
+        { text: 'Общая информация', link: '/guide/#введение' }
       ]
     },
     {
       text: ' Руководство',
       children: [
-        { text: 'Общее знакомство', link: '/guide/info' },
-        { text: 'Отчеты', link: '/guide/global-computed' },
-        { text: 'Заявки на производство', link: '/guide/global-component' },
-        { text: 'Ответсвенное хранение', link: '/guide/customization' }
+        { text: 'Общее знакомство', link: '/guide/common' },
+        { text: 'Работа с таблицами', link: '/guide/dx' },
+        { text: 'Отчеты', link: '/guide/report' },
+        { text: 'Заявки на производство', link: '/guide/order' },
+        { text: 'Ответственное хранение', link: '/guide/custodian' },
+        { text: 'Претензии', link: '/guide/claims' }
       ]
     }
   ]

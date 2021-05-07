@@ -1,0 +1,34 @@
+.home-hero .image {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .nav-bar .logo {
+    height: 30px;
+    margin-right: 2px;
+  }
+  
+  .content img {
+    border-radius: 10px;
+  }
+  
+  .nav-dropdown-link-item .icon {
+    display: none;
+  }
+  
+  :root {
+    --c-brand: #004E94;
+    --c-brand-light: #3171a8;
+  }
+  
+  .custom-block.tip {
+    border-color: var(--c-brand-light);
+  }
+  
+  .DocSearch {
+    --docsearch-primary-color: var(--c-brand) !important;
+  }
+
+  .page > .container {
+    max-width: 64rem;
+  }
