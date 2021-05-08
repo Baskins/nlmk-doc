@@ -64,6 +64,14 @@ function getGuideSidebar() {
         { text: 'Ответственное хранение', link: '/guide/custodian' },
         { text: 'Претензии', link: '/guide/claims' }
       ]
+    },
+    {
+      text: 'API НЛМК Connect',
+      children: [
+        { text: 'Общая информация', link: '/api/' },
+        { text: 'Предварительные настройки', link: '/api/setting' },
+        { text: 'Методы работы с API', link: '/api/methods' }
+      ]
     }
   ]
 }
