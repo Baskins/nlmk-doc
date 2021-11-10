@@ -32,9 +32,13 @@ module.exports = {
         link: '/api/',
         activeMatch: '^/api/'
       },
+      // {
+      //   text: 'Дашбоард НЛМК Онлайн',
+      //   link: 'https://nlmk.online'
+      // },
       {
-        text: 'Дашбоард НЛМК Онлайн',
-        link: 'https://nlmk.online'
+        text: 'Учебный курс "Контракт"',
+        link: 'https://curs.nlmk.shop/?utm_source=referral&utm_medium=link&utm_campaign=b2b'
       }
     ],
 
@@ -60,7 +64,14 @@ function getGuideSidebar() {
         { text: 'Общее знакомство', link: '/guide/common' },
         { text: 'Работа с таблицами', link: '/guide/dx' },
         { text: 'Отчеты', link: '/guide/report' },
-        { text: 'Заявки на производство', link: '/guide/order' },
+        { text: 'Заявки на производство', link: '/guide/order/', children: [
+          { text: 'Создание заявки на производство', link: '/guide/order/new' },
+          { text: 'Конфигурирование продукции', link: '/guide/order/pc' },
+          { text: 'Шаблоны продукции (избранное)', link: '/guide/order/favorite' },
+          { text: 'Грузополучатели', link: '/guide/order/consignee' },
+          { text: 'Оформление заявки на производство', link: '/guide/order/checkout' },
+          { text: 'Статусы по заказам', link: '/guide/order/status' }
+        ] },
         { text: 'Ответственное хранение', link: '/guide/custodian' },
         { text: 'Претензии', link: '/guide/claims' }
       ]
