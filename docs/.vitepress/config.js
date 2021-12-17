@@ -70,7 +70,7 @@ function getGuideSidebar() {
           { text: 'Шаблоны продукции (избранное)', link: '/guide/order/favorite' },
           { text: 'Грузополучатели', link: '/guide/order/consignee' },
           { text: 'Оформление заявки на производство', link: '/guide/order/checkout' },
-          { text: 'Статусы по заказам', link: '/guide/order/status' }
+          { text: 'Информация по заказам', link: '/guide/order/status' }
         ] },
         { text: 'Ответственное хранение', link: '/guide/custodian' },
         { text: 'Претензии', link: '/guide/claims' }
