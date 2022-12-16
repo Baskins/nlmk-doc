@@ -74,7 +74,7 @@ function getGuideSidebar() {
         ] },
         { text: 'Ответственное хранение', link: '/guide/custodian' },
         { text: 'Претензии', link: '/guide/claims' },
-        { text: 'EDI', link: '/guide/edi' }
+        { text: 'EDI интеграция', link: '/guide/edi' }
       ]
     },
     {
