@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<eDIMessage id="357f97a2-61c6-42c4-b5ed-acd7e85a5dc7">
+  <interchangeHeader>
+    <sender>2767869668359</sender>
+    <recipient>4607196242526</recipient>
+    <documentType>ORDERS</documentType>
+    <creationDateTime>2021-09-28T07:15:52.370Z</creationDateTime>
+    <creationDateTimeBySender>2021-09-28T13:59:22.840Z</creationDateTimeBySender>
+  </interchangeHeader>
+  <order number="Демо_2809_1" date="2021-09-28">
+    <contractIdentificator number="АняБ_СПК_ДоговорРеализации_ПАО" date="2012-05-06" />
+    <blanketOrderIdentificator number="11212500345" />
+    <promotionDealNumber>ПРОМО 512 ГБТ</promotionDealNumber>
+    <termsOfPayment>
+      <paymentTermsTypeCode>Credit15Days</paymentTermsTypeCode>
+      <interval>Day</interval>
+      <intervalLength>30</intervalLength>
+      <percentage>5.000</percentage>
+      <percentageType>Allowance</percentageType>
+    </termsOfPayment>
+    <seller>
+      <gln>4607196242526</gln>
+      <organization>
+        <name>Тестовый ПАО "НЛМК" - Дистриб</name>
+        <inn>3014359363</inn>
+        <kpp>453885843</kpp>
+      </organization>
+      <additionalIdentificator>7659876</additionalIdentificator>
+      <taxSystem>Simplified</taxSystem>
+    </seller>
+    <buyer>
+      <gln>2767869668359</gln>
+      <organization>
+        <name>Тестовая сеть Черказьянов</name>
+        <inn>1295973290</inn>
+        <kpp>486900552</kpp>
+      </organization>
+      <contactInfo>
+        <orderContact>
+          <email>anna.balaeva@accenture.com</email>
+        </orderContact>
+      </contactInfo>
+    </buyer>
+    <deliveryInfo>
+      <requestedDeliveryDateTime>2021-09-28T00:00:00.000Z</requestedDeliveryDateTime>
+      <shipFrom>
+        <gln>2001100009991</gln>
+        <organization>
+          <name>ShipperName</name>
+          <inn>ShipperInn(10)</inn>
+          <kpp>ShipperKpp</kpp>
+        </organization>
+        <russianAddress>
+          <district>district</district>
+          <city>City</city>
+          <settlement>Village</settlement>
+          <street>Street</street>
+          <house>House</house>
+          <flat>Flat</flat>
+          <postalCode>PostalCode</postalCode>
+        </russianAddress>
+      </shipFrom>
+      <shipTo>
+        <gln>2094045009386</gln>
+        <organization>
+          <name>DeliveryName</name>
+          <inn>DeliveryInn(10)</inn>
+          <kpp>DeliveryKpp</kpp>
+        </organization>
+        <russianAddress>
+          <district>district</district>
+          <city>City</city>
+          <settlement>Village</settlement>
+          <street>Street</street>
+          <house>House</house>
+          <flat>Flat</flat>
+          <postalCode>PostalCode</postalCode>
+        </russianAddress>
+      </shipTo>
+      <transportation>
+        <vehicleArrivalDateTime>2021-09-28T13:59:22.840Z</vehicleArrivalDateTime>
+        <typeOfTransport>TypeOfTransport</typeOfTransport>
+        <startOfLoadingOnVehicleFromSupplier>2021-08-30T13:59:22.840Z</startOfLoadingOnVehicleFromSupplier>
+        <endOfLoadingOnVehicleFromSupplier>2021-08-30T13:59:22.840Z</endOfLoadingOnVehicleFromSupplier>
+      </transportation>
+    </deliveryInfo>
+    <comment>Для демо 2021-09-28 - полная заявка, репликация успешна</comment>
+    <additionalInformation>
+      <keyValuePair key="consignee">1000023432</keyValuePair>
+      <keyValuePair key="deliveryMode">Самовывоз</keyValuePair>
+      <keyValuePair key="pointOfIncoterms">НЛМК</keyValuePair>
+      <keyValuePair key="destinationStation" />
+      <keyValuePair key="text4" />
+      <keyValuePair key="consigneeBranch" />
+      <keyValuePair key="withLogocenter">0</keyValuePair>
+      <keyValuePair key="paymentTermsCode">Credit15Days</keyValuePair>
+      <keyValuePair key="typeOfTransportCode">Автотранспорт</keyValuePair>
+    </additionalInformation>
+    <lineItems>
+      <currencyISOCode>RUB</currencyISOCode>
+      <lineItem>
+        <gtin>8414564101233</gtin>
+        <internalBuyerCode>Демо_4.8_2809_с доп.хар._1</internalBuyerCode>
+        <internalSupplierCode>Демо_4.8_2809_с доп.хар._1</internalSupplierCode>
+        <requestedQuantity unitOfMeasure="TNE">5.010</requestedQuantity>
+        <netPrice>50.0000</netPrice>
+        <netPriceWithVAT>59.0000</netPriceWithVAT>
+        <netAmount>1000.0000</netAmount>
+        <amount>1180.0000</amount>
+        <additionalInformation>
+          <keyValuePair key="position">010</keyValuePair>
+          <keyValuePair key="PRIZ_ZASCH_POV">Защ.пленка</keyValuePair>
+          <keyValuePair key="MAS_BUNT_MIN">10</keyValuePair>
+          <keyValuePair key="MAS_BUNT_MAX">25</keyValuePair>
+        </additionalInformation>
+      </lineItem>
+      <lineItem>
+        <gtin>8414564101234</gtin>
+        <internalBuyerCode>Демо_4.8_2809_с доп.хар._2</internalBuyerCode>
+        <internalSupplierCode>Демо_4.8_2809_с доп.хар._2</internalSupplierCode>
+        <comment>Комментарий 2 к товару ПАО</comment>
+        <requestedQuantity unitOfMeasure="TNE">65.000</requestedQuantity>
+        <netPrice>50.0000</netPrice>
+        <netPriceWithVAT>59.0000</netPriceWithVAT>
+        <netAmount>1000.0000</netAmount>
+        <amount>1180.0000</amount>
+        <additionalInformation>
+          <keyValuePair key="position">020</keyValuePair>
+          <keyValuePair key="PRIZ_ZASCH_POV">Без защитной пленки</keyValuePair>
+          <keyValuePair key="MAS_BUNT_MIN">3</keyValuePair>
+          <keyValuePair key="MAS_BUNT_MAX">12</keyValuePair>
+        </additionalInformation>
+      </lineItem>
+      <lineItem>
+        <gtin>8414564101234</gtin>
+        <internalBuyerCode>Демо_4.8_2809_с доп.хар._3</internalBuyerCode>
+        <internalSupplierCode>Демо_4.8_2809_с доп.хар._3</internalSupplierCode>
+        <comment>Комментарий 3 к товару ПАО</comment>
+        <requestedQuantity unitOfMeasure="TNE">55.025</requestedQuantity>
+        <netPrice>50.0000</netPrice>
+        <netPriceWithVAT>59.0000</netPriceWithVAT>
+        <netAmount>1000.0000</netAmount>
+        <amount>1180.0000</amount>
+        <additionalInformation>
+          <keyValuePair key="position">030</keyValuePair>
+          <keyValuePair key="PRIZ_ZASCH_POV">Защ.пленка</keyValuePair>
+          <keyValuePair key="MAS_BUNT_MIN">6</keyValuePair>
+          <keyValuePair key="MAS_BUNT_MAX">8</keyValuePair>
+        </additionalInformation>
+      </lineItem>
+      <totalSumExcludingTaxes>2680.00</totalSumExcludingTaxes>
+    </lineItems>
+  </order>
+</eDIMessage>

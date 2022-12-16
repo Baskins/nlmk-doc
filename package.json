@@ -10,11 +10,11 @@
   "author": "Savchenko Sasha",
   "license": "MIT",
   "private": false,
-   "scripts": {
-     "docs:dev": "vitepress dev docs",
-     "docs:build": "vitepress build docs",
-     "docs:serve": "vitepress serve docs"
-   },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
   "devDependencies": {
     "vitepress": "^0.13.2"
   }

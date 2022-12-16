@@ -1,0 +1,913 @@
+Date: Wed, 21 Apr 2021 23:34:04 +0500 (YEKT)
+Message-ID: <892340528.458106.1619030044880@confluence-FE.kontur>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_458105_1363249741.1619030044878"
+
+------=_Part_458105_1363249741.1619030044878
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=
+=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=
+=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F</h1>
+    <div class=3D"Section1">
+        <p><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1619030044817 {padding: 0px;}
+div.rbtoc1619030044817 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1619030044817 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style></p>
+<div class=3D"toc-macro rbtoc1619030044817">=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D1=82=D1=80=
+=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B0=D1=84=D0=B0=D0=B9=D0=BB=D0=B0=D1=81=D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC">=D0=A1=D1=82=D1=
+=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B0 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=
+=81 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9E=D0=B1=D1=89=
+=D0=B0=D1=8F=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B0">=D0=9E=
+=D0=B1=D1=89=D0=B0=D1=8F =D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=
+=D0=B0</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9F=D0=B0=D1=80=
+=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B=D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=B0">=
+=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=BE=D1=82=D1=87=
+=D0=B5=D1=82=D0=B0</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=98=D0=B4=D0=B5=
+=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F=D1=81=D0=BE=D0=
+=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F=D0=B8=D0=B4=D0=BE=D0=BA=D1=83=D0=BC=
+=D0=B5=D0=BD=D1=82=D0=B0=D0=B2=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=
+=B8=D0=B8">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=
+=86=D0=B8=D1=8F =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=
+=B8 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D0=B2 =D1=81=D0=
+=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B8</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9E=D0=BF=D0=B8=
+=D1=81=D0=B0=D0=BD=D0=B8=D0=B5=D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0">=
+=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5 =D1=81=D1=82=D0=B0=D1=82=
+=D1=83=D1=81=D0=B0</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9E=D0=BF=D0=B8=
+=D1=81=D0=B0=D0=BD=D0=B8=D0=B5=D1=81=D1=83=D1=89=D0=BD=D0=BE=D1=81=D1=82=D0=
+=B5=D0=B9=D0=AD=D0=94=D0=9E=D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8=D0=BE=D0=BF=
+=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F=D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=
+=B0">=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5 =D1=81=D1=83=D1=89=D0=
+=BD=D0=BE=D1=81=D1=82=D0=B5=D0=B9 =D0=AD=D0=94=D0=9E =D0=B2=D0=BD=D1=83=D1=
+=82=D1=80=D0=B8 =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=
+=82=D0=B0=D1=82=D1=83=D1=81=D0=B0</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=94=D0=BE=D0=BF=
+=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F=D0=B8=D0=
+=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F=D0=B2=D0=BD=D1=83=D1=82=
+=D1=80=D0=B8=D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F=D1=81=D1=82=D0=
+=B0=D1=82=D1=83=D1=81=D0=B0">=D0=94=D0=BE=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=
+=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=
+=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8 =D0=BE=D0=
+=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=
+=81=D0=B0</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9D=D0=B0=D0=B7=
+=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D1=84=D0=B0=D0=B9=D0=BB=D0=B0=D1=81=D1=81=D0=
+=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC">=D0=9D=D0=B0=D0=B7=D0=
+=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=81 =D1=81=D0=
+=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9F=D1=80=D0=B8=
+=D0=BC=D0=B5=D1=80=D1=8B=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=
+=B9">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D1=8B =D1=81=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D0=BD=D0=B8=D0=B9</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D0=BE=D0=BE=
+=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5ReadOk">=D0=A1=D0=BE=D0=BE=D0=B1=D1=89=
+=D0=B5=D0=BD=D0=B8=D0=B5 Read Ok</a></li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D0=BE=D0=BE=
+=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5ProcessingFail">=D0=A1=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 Processing Fail</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=
+=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D1=82=D0=B0=
+=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=
+=BD=D0=B8=D1=8F=D0=BE=D1=82=D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=D0=BE=D0=B2=
+">=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=
+=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=BE=D1=82 =D0=BA=D0=BB=D0=B8=D0=B5=
+=D0=BD=D1=82=D0=BE=D0=B2</a></li>=20
+</ul>=20
+</div>
+<p></p>
+<p>=D0=9A=D0=B0=D0=B6=D0=B4=D0=BE=D0=BC=D1=83 =D1=8D=D1=82=D0=B0=D0=BF=D1=
+=83 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D0=BE=D1=82=D0=
+=B4=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2 =D1=86=D0=B5=D0=BF=D0=BE=D1=87=D0=BA=D0=
+=B5 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=
+=8E=D1=82 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B5=D0=BD=D0=BD=D1=
+=8B=D0=B5 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F. =D0=A1=D1=82=D0=B0=D1=
+=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=
+=BD=D0=B8=D1=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D1=8E=D1=
+=82=D1=81=D1=8F =D0=B4=D0=BB=D1=8F =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=
+=BB=D0=B5=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD =D0=BE=D0=
+=B1=D0=BC=D0=B5=D0=BD=D0=B0 =D0=BE =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=
+=82=D0=B0=D1=82=D0=B5 =D1=8D=D1=82=D0=B0=D0=BF=D0=B0 =D0=BE=D0=B1=D1=80=D0=
+=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D0=BE=D1=82=D0=B4=D0=B5=D0=BB=D1=8C=D0=
+=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=
+=8F (=D0=BE =D1=82.=D0=BD. <strong>=D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=
+=B5</strong> =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F). =D0=
+=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=B2=D1=8B=D1=81=D1=8B=D0=BB=D0=B0=D0=
+=B5=D0=BC =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=BD=D0=B0 =D0=B8=D1=81=D1=
+=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B8=D0=B5 =D0=B4=D0=BB=D1=8F =D0=BA=D0=BE=D0=
+=BD=D1=82=D1=80=D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=B0 =D1=81=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F.</p>
+<p>=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=
+=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D1=83=D1=8E=D1=82=D1=81=D1=8F =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=
+=BD=D0=BD=D0=B8=D0=BC=D0=B8 =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=
+=86=D0=B8=D0=BE=D0=BD=D0=BD=D1=8B=D0=BC=D0=B8 =D1=81=D0=B8=D1=81=D1=82=D0=
+=B5=D0=BC=D0=B0=D0=BC=D0=B8 (=D0=B2 =D1=82.=D1=87. =D0=BD=D0=B0=D1=88=D0=B8=
+=D0=BC 1=D0=A1-=D0=BC=D0=BE=D0=B4=D1=83=D0=BB=D0=B5=D0=BC) =D0=B4=D0=BB=D1=
+=8F =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=
+=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D0=
+=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D0=B8 =D0=BE=D0=B1 =D0=
+=BE=D1=82=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=D0=BE=D0=BC =D0=B8=D0=
+=BC =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B8. =D0=9D=D0=B0=D0=
+=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80, =D0=B5=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0 =
+=D0=BD=D0=B5=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D0=B2=D1=80=D0=B5=
+=D0=BC=D1=8F =D0=95=D0=BB=D0=B8=D1=81=D0=B5=D0=B9 =D0=BD=D0=B5 =D0=BF=D0=BE=
+=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=
+=D0=BD=D0=BE=D0=B3=D0=BE =D0=BE =D0=BF=D1=80=D0=BE=D1=87=D1=82=D0=B5=D0=BD=
+=D0=B8=D0=B8 =D1=81=D0=B2=D0=BE=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=BA=D0=B0=
+=D0=B7=D0=B0, =D0=BD=D0=B0=D0=BA=D0=BB=D0=B0=D0=B4=D0=BD=D0=BE=D0=B9 =D0=B8=
+=D0=BB=D0=B8 =D0=BF=D0=BE=D0=B4=D1=82=D0=B2=D0=B5=D1=80=D0=B6=D0=B4=D0=B5=
+=D0=BD=D0=B8=D1=8F, =D0=BE=D0=BD =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=B0=D0=B5=
+=D1=82 =D0=B7=D0=B2=D0=BE=D0=BD=D0=B8=D1=82=D1=8C =D0=BF=D0=BE=D1=81=D1=82=
+=D0=B0=D0=B2=D1=89=D0=B8=D0=BA=D1=83.</p>
+<p>=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D0=BD=D0=B8=D1=8F =D1=85=D0=B0=D1=80=D0=B0=D0=BA=D1=82=D0=B5=D1=80=D0=
+=B8=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=
+=8E=D1=89=D0=B8=D0=BC =D0=BD=D0=B0=D0=B1=D0=BE=D1=80=D0=BE=D0=BC =D0=B4=D0=
+=B0=D0=BD=D0=BD=D1=8B=D1=85:</p>
+<ul>
+<li>=D0=B2=D1=80=D0=B5=D0=BC=D1=8F (DateTime);</li>
+<li>=D1=8D=D1=82=D0=B0=D0=BF =D0=BE=D0=B1=D1=80=D0=B0=D0=B1<span style=3D"c=
+olor: rgb(51,51,51);">=D0=BE=D1=82=D0=BA=D0=B8 (stage: Processing, Delivery=
+, Read, Checking, ConventingToDiadoc, SigningBySender);</span></li>
+<li>=D0=B8=D1=82=D0=BE=D0=B3 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=
+=BA=D0=B8 (state: Ok, Fail);</li>
+<li>=D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5 =D1=81=D0=BE=D1=81=D1=
+=82=D0=BE=D1=8F=D0=BD=D0=B8=D1=8F (description);</li>
+<li>=D0=B4=D0=BE=D0=BF. =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=
+=B8=D1=8F (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=80, error[]).</li>
+</ul>
+<p>=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D0=BE=D0=B5 =D1=81=D0=BE=D0=
+=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=
+=82=D0=B2=D1=83=D0=B5=D1=82 =D0=BD=D0=B5 =D0=B4=D0=BB=D1=8F =D0=BB=D1=8E=D0=
+=B1=D0=BE=D0=B9 =D0=BF=D0=B0=D1=80=D1=8B state+stage, =D0=B0 =D1=82=D0=BE=
+=D0=BB=D1=8C=D0=BA=D0=BE =D0=B4=D0=BB=D1=8F =D1=81=D0=BB=D0=B5=D0=B4=D1=83=
+=D1=8E=D1=89=D0=B5=D0=B3=D0=BE =D0=BD=D0=B0=D0=B1=D0=BE=D1=80=D0=B0 (=D0=B1=
+=D0=BE=D0=BB=D0=B5=D0=B5 =D0=BF=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=D0=BE <=
+a href=3D"/pages/viewpage.action?pageId=3D40522909">=D0=B7=D0=B4=D0=B5=D1=
+=81=D1=8C</a>):</p>
+<ul>
+<li>=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =D1=81=D0=BB=D0=
+=BE=D0=BC=D0=B0=D0=BB=D0=BE=D1=81=D1=8C =D0=BF=D1=80=D0=B8 =D0=BE=D0=B1=D1=
+=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B5 (Processing Fail)</li>
+<li>=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BE=D1=
+=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=BE (Delivery Ok)</li>
+<li>=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D1=80=D0=
+=BE=D1=87=D0=B8=D1=82=D0=B0=D0=BD=D0=BE (Read Ok)</li>
+<li><span style=3D"color: rgb(51,51,51);">=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B5=D0=BD=D0=
+=BE =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=BC (<sp=
+an style=3D"color: rgb(51,51,51);">Checking</span> <span style=3D"color: rg=
+b(51,51,51);">Ok</span>/ Checking Fail)</span></li>
+<li><span style=3D"color: rgb(51,51,51);">=D1=87=D0=B5=D1=80=D0=BD=D0=BE=D0=
+=B2=D0=B8=D0=BA =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D1=
+=81=D1=84=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD =D0=B2 =D0=
+=94=D0=B8=D0=B0=D0=B4=D0=BE=D0=BA=D0=B5 (ConvertingToDiadoc Ok)</span></li>
+<li><span style=3D"color: rgb(51,51,51);">=D1=87=D0=B5=D1=80=D0=BD=D0=BE=D0=
+=B2=D0=B8=D0=BA =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D0=
+=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=B0=D0=BD =D0=B2 =D0=94=D0=B8=D0=B0=D0=
+=B4=D0=BE=D0=BA=D0=B5 (SigningBySender Ok)</span></li>
+<li><span style=3D"color: rgb(51,51,51);">=D1=87=D0=B5=D1=80=D0=BD=D0=BE=D0=
+=B2=D0=B8=D0=BA =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =D1=
+=83=D0=B4=D0=B0=D0=BB=D0=B5=D0=BD =D0=B2 =D0=94=D0=B8=D0=B0=D0=B4=D0=BE=D0=
+=BA=D0=B5 (SigningBySender&nbsp; Fail)</span></li>
+<li><p><span style=3D"color: rgb(51,51,51);">=D0=B4=D0=BE=D0=BA=D1=83=D0=BC=
+=D0=B5=D0=BD=D1=82=D1=8B =D0=BF=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=
+=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=BC <=
+span style=3D"color: rgb(0,0,0);">(</span><span style=3D"color: rgb(0,51,10=
+2);"><span style=3D"color: rgb(0,0,0);">SignedByRecipient Ok</span></span><=
+span style=3D"color: rgb(0,0,0);">)</span>&nbsp;</span></p></li>
+<li><p><span style=3D"color: rgb(51,51,51);">=D0=BF=D0=BE=D0=BB=D1=83=D1=87=
+=D0=B0=D1=82=D0=B5=D0=BB=D1=8C =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=
+=D1=82=D0=BE=D0=B2 =D0=BE=D1=82=D0=BA=D0=B0=D0=B7=D0=B0=D0=BB =D0=B2 =D0=BF=
+=D0=BE=D0=B4=D0=BF=D0=B8=D1=81=D0=B8 <span style=3D"color: rgb(0,0,0);">(</=
+span></span><span style=3D"color: rgb(0,51,102);"><span style=3D"color: rgb=
+(0,0,0);">SignedByRecipient Fail</span></span><span style=3D"color: rgb(0,0=
+,0);"><span style=3D"color: rgb(0,0,0);">)</span></span><span style=3D"colo=
+r: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);"><br></span></span></p></=
+li>
+<li><span style=3D"color: rgb(51,51,51);"><span style=3D"color: rgb(0,0,0);=
+">=D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD =D0=B7=D0=B0=D0=BF=
+=D1=80=D0=BE=D1=81 =D0=BD=D0=B0 =D0=B0=D0=BD=D0=BD=D1=83=D0=BB=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 (RevocationRequested Ok)</span></span>=
+</li>
+<li><span style=3D"color: rgb(51,51,51);"><span style=3D"color: rgb(0,0,0);=
+"><span style=3D"color: rgb(51,51,51);"><span style=3D"color: rgb(0,0,0);">=
+=D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D1=8B =D0=B0=D0=BD=D0=BD=
+=D1=83=D0=BB=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D1=8B (RevocationProcessed=
+ Ok)</span></span><br></span></span></li>
+</ul>
+<p>=D0=92 =D0=BE=D0=B4=D0=BD=D0=BE=D0=BC =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=
+=81=D0=BD=D0=BE=D0=BC =D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82=D1=
+=81=D1=8F =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=
+=BF=D1=80=D0=BE =D0=BE=D0=B4=D0=B8=D0=BD =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=
+=81 =D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D0=BD=D0=B8=D1=8F. =D0=92 =D1=81=D0=BB=D1=83=D1=87=D0=B0=D0=B5 <a href=
+=3D"https://wiki.skbkontur.ru/pages/viewpage.action?pageId=3D108832332" rel=
+=3D"nofollow">=D0=B0=D1=80=D1=85=D0=B8=D0=B2=D0=B0 </a>=D0=B8=D0=BB=D0=B8 <=
+a href=3D"https://wiki.skbkontur.ru/pages/viewpage.action?pageId=3D10883236=
+5" rel=3D"nofollow">=D0=BC=D1=83=D0=BB=D1=8C=D1=82=D0=B8=D1=81=D0=BE=D0=BE=
+=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F</a>, =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=
+=81=D0=BD=D1=8B=D0=B5 =D0=BF=D0=BE=D1=81=D1=8B=D0=BB=D0=B0=D1=8E=D1=82=D1=
+=81=D1=8F =D0=BE=D1=82=D0=B4=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D0=BF=D0=BE =D0=
+=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=BC=D1=83 =D0=BF=D1=80=D0=BE=D1=81=D1=82=D0=
+=BE=D0=BC=D1=83 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8E =D0=
+=B2 =D1=81=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=B5.</p>
+<h3 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D1=82=D1=80=D1=83=
+=D0=BA=D1=82=D1=83=D1=80=D0=B0=D1=84=D0=B0=D0=B9=D0=BB=D0=B0=D1=81=D1=81=D0=
+=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC">=D0=A1=D1=82=D1=80=D1=
+=83=D0=BA=D1=82=D1=83=D1=80=D0=B0 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=81 =D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC</h3>
+<p><span style=3D"color: rgb(51,51,51);"><a href=3D"/download/attachments/8=
+19427/StatusReport_v3.xsd?version=3D1&amp;modificationDate=3D1369820441910&=
+amp;api=3Dv2" data-linked-resource-id=3D"56131851" data-linked-resource-ver=
+sion=3D"1" data-linked-resource-type=3D"attachment" data-linked-resource-de=
+fault-alias=3D"StatusReport_v3.xsd" data-linked-resource-content-type=3D"ap=
+plication/x-download" data-linked-resource-container-id=3D"819427" data-lin=
+ked-resource-container-version=3D"93">xsd-=D1=81=D1=85=D0=B5=D0=BC=D0=B0</a=
+></span></p>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9E=D0=B1=D1=89=D0=B0=
+=D1=8F=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B0"><span style=
+=3D"color: rgb(0,0,0);">=D0=9E=D0=B1=D1=89=D0=B0=D1=8F =D1=81=D1=82=D1=80=
+=D1=83=D0=BA=D1=82=D1=83=D1=80=D0=B0<br></span></h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;statusReport&gt;
+ ...
+  &lt;reportItem&gt;
+    &lt;message.../&gt;
+    ...
+    &lt;document.../&gt;
+&nbsp;   &lt;statusItem&gt;
+      ...
+=09&lt;/statusItem&gt;
+  &lt;/reportItem&gt;
+&lt;/statusReport&gt;</pre>=20
+</div>
+</div>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9F=D0=B0=D1=80=D0=B0=
+=D0=BC=D0=B5=D1=82=D1=80=D1=8B=D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=B0"><span s=
+tyle=3D"color: rgb(0,51,102);"><span style=3D"color: rgb(0,0,0);">=D0=9F=D0=
+=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=BE=D1=82=D1=87=D0=B5=D1=
+=82=D0=B0</span><br></span></h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;statusReport&gt;
+=09&lt;reportDateTime&gt;2012-07-14T09:30:10.000&lt;/reportDateTime&gt; &lt=
+;!--=D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=
+=86=D0=B8=D0=B8 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D0=BE=D1=82=D1=87=D0=B5=D1=
+=82=D0=B0--&gt;
+=09&lt;reportRecipient&gt;4607816319997&lt;/reportRecipient&gt; &lt;!-- gln=
+ sender'=D0=B0 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F (Edif=
+act - =D0=B8=D0=B7 UNB, EANCOM-XML - =D0=B8=D0=B7 =D1=81=D0=B0=D0=BC=D0=BE=
+=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F, EdiXML=
+  - =D0=B8=D0=B7 interchangeHeader) --&gt;=09
+</pre>=20
+</div>
+</div>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=98=D0=B4=D0=B5=D0=BD=
+=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F=D1=81=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F=D0=B8=D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=
+=D0=BD=D1=82=D0=B0=D0=B2=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=
+=B8"><span style=3D"color: rgb(0,0,0);">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=
+=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=86=D0=B8=D1=8F =D1=81=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=
+=BD=D1=82=D0=B0 =D0=B2 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=
+=B8 </span></h4>
+<p><span style=3D"color: rgb(0,51,102);"><span style=3D"color: rgb(51,51,51=
+);">=D0=95=D1=81=D0=BB=D0=B8 =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=
+=8F =D0=B4=D0=BB=D1=8F =D1=82=D0=B5=D0=B3=D0=B0 =D0=BD=D0=B5=D1=82 - =D1=82=
+=D0=B5=D0=B3 =D0=BE=D0=BF=D1=83=D1=81=D0=BA=D0=B0=D0=B5=D0=BC</span><br></s=
+pan></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;messageId&gt;EL027287&lt;/messageId&gt; &lt;!-- =D0=BD=D0=BE=D0=BC=D0=B5=
+=D1=80 =D0=B2=D1=81=D0=B5=D0=B3=D0=B4=D0=B0 =D0=B5=D1=81=D1=82=D1=8C (Edifa=
+ct - =D0=B8=D0=B7 UNB, EANCOM-XML - =D0=B8=D0=B7 UNH, EdiXML - =D0=B8=D0=B7=
+ eDIMessage.id, =D0=9A=D0=BE=D1=80=D1=83=D1=81XML - =D0=BD=D0=B5 =D0=B7=D0=
+=B0=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D0=BC) =D0=9D=D0=9E =D0=B5=D1=81=D0=
+=BB=D0=B8 =D0=BF=D1=80=D0=B8=D1=81=D0=BB=D0=B0=D0=BB=D0=B8 =D0=BF=D0=BE=D0=
+=BB=D0=BD=D1=8B=D0=B9 =D1=84=D0=B0=D1=80=D1=88 =D0=B8 =D0=BD=D0=BE=D0=BC=D0=
+=B5=D1=80=D0=B0 =D0=BD=D0=B5=D1=82, =D1=82=D0=BE=D0=B3=D0=B4=D0=B0 =D0=BD=
+=D0=BE=D0=BC=D0=B5=D1=80 =D0=BD=D0=B5 =D0=B7=D0=B0=D0=BF=D0=BE=D0=BB=D0=BD=
+=D1=8F=D0=B5=D0=BC --&gt;
+&lt;messageSender&gt;4607816319997&lt;/messageSender&gt; &lt;!-- gln sender=
+'=D0=B0, =D0=B5=D1=81=D1=82=D1=8C =D0=B2=D1=81=D0=B5=D0=B3=D0=B4=D0=B0--&gt=
+;
+&lt;messageRecepient&gt;4607195499990&lt;/messageRecepient&gt; &lt;!-- gln =
+recepient'=D0=B0--&gt;
+&lt;documentId&gt;234234234&lt;/document&gt; &lt;!-- (Edifact - =D0=B8=D0=
+=B7 UNH, EANCOM-XML - =D0=B8=D0=B7 UNH, EdiXML - =D0=BD=D0=B5 =D0=B7=D0=B0=
+=D0=BF=D0=BE=D0=BB=D0=BD=D1=8F=D0=B5=D0=BC, =D0=9A=D0=BE=D1=80=D1=83=D1=81X=
+ML - DocumentType_DocumenNumber_DocumentDate =D0=B2 =D1=84=D0=BE=D1=80=D0=
+=BC=D0=B0=D1=82=D0=B5 dd-mm-yyyy)--&gt;
+&lt;documentType&gt;Orders&lt;/documentType&gt;=20
+&lt;documentNumber&gt;059385&lt;/documentNumber&gt;  &lt;!--=D0=92 Processi=
+ngFail =D0=BD=D0=B0 =D0=B4=D1=83=D0=B1=D0=BB=D0=B8=D1=80=D1=83=D1=8E=D1=89=
+=D0=B8=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8 =
+=D0=BD=D0=B0 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F, =D1=83=
+ =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D1=85 =D0=BD=D0=B5 =D1=81=D0=BC=D0=BE=
+=D0=B3=D0=BB=D0=B8 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8=D1=82=
+=D1=8C =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82, =D0=BD=D0=B5=D1=82 =D0=BF=D0=
+=BE=D0=BB=D0=B5=D0=B9 =D1=81 =D0=BD=D0=BE=D0=BC=D0=B5=D1=80=D0=BE=D0=BC doc=
+umentNumber =D0=B8 =D0=B4=D0=B0=D1=82=D0=BE=D0=B9 documentDate--&gt;
+&lt;documentDate&gt;2012-06-19&lt;/documentDate&gt;
+</pre>=20
+</div>
+</div>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9E=D0=BF=D0=B8=D1=81=
+=D0=B0=D0=BD=D0=B8=D0=B5=D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0"><span s=
+tyle=3D"color: rgb(0,0,0);">=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0</span></h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;statusItem&gt;
+=09&lt;dateTime&gt;2012-05-14T19:00:00.000&lt;/dateTime&gt;&lt;!--=D0=B2=D1=
+=80=D0=B5=D0=BC=D1=8F =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F, =D0=BF=D0=
+=BE=D1=80=D0=BE=D0=B4=D0=B8=D0=B2=D1=88=D0=B5=D0=B3=D0=BE =D1=81=D1=82=D0=
+=B0=D1=82=D1=83=D1=81--&gt;
+    &lt;stage&gt;Processing&lt;/stage&gt;
+    &lt;state&gt;Fail&lt;/state&gt;
+=09&lt;diadocDetails&gt;
+=09  ...
+    &lt;/diadocDetails&gt;
+ =09&lt;description&gt;=D0=92 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=
+=B8=D0=B8 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D1=8B =D0=BE=D1=88=D0=B8=D0=
+=B1=D0=BA=D0=B8&lt;/description&gt;&lt;!--=D1=82=D0=B0=D0=BA=D0=BE=D0=B9 =
+=D0=B6=D0=B5, =D0=BA=D0=B0=D0=BA =D0=BF=D0=BE=D0=B4=D1=80=D0=BE=D0=B1=D0=BD=
+=D0=BE=D0=B5 =D1=81=D0=BE=D1=81=D1=82=D0=BE=D1=8F=D0=BD=D0=B8=D0=B5 =D0=B2 =
+=D0=BC=D0=BE=D0=BD=D0=B8=D1=82=D0=BE=D1=80=D0=B8=D0=BD=D0=B3=D0=B5--&gt;
+=09&lt;error&gt;...&lt;/error&gt;&lt;!--=D1=82=D0=B5=D0=BA=D1=81=D1=82=D1=
+=8B =D0=BA=D0=BE=D0=BD=D0=BA=D1=80=D0=B5=D1=82=D0=BD=D1=8B=D1=85 =D0=BE=D1=
+=88=D0=B8=D0=B1=D0=BE=D0=BA--&gt;
+=09&lt;additionalInfo&gt;
+=09 ...
+=09&lt;/additionalInfo&gt;
+&lt;/statusItem&gt;</pre>=20
+</div>
+</div>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9E=D0=BF=D0=B8=D1=81=
+=D0=B0=D0=BD=D0=B8=D0=B5=D1=81=D1=83=D1=89=D0=BD=D0=BE=D1=81=D1=82=D0=B5=D0=
+=B9=D0=AD=D0=94=D0=9E=D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8=D0=BE=D0=BF=D0=B8=
+=D1=81=D0=B0=D0=BD=D0=B8=D1=8F=D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0"><=
+span style=3D"color: rgb(0,0,0);">=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=
+=B8=D0=B5 =D1=81=D1=83=D1=89=D0=BD=D0=BE=D1=81=D1=82=D0=B5=D0=B9 =D0=AD=D0=
+=94=D0=9E =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B8 =D0=BE=D0=BF=D0=B8=D1=81=D0=
+=B0=D0=BD=D0=B8=D1=8F =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0</span></h4=
+>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;diadocDetails&gt;
+=09&lt;diadocBoxId/&gt;&lt;!--=D0=B2=D0=BE =D0=B2=D1=81=D0=B5=D1=85 =D1=81=
+=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0=D1=85, =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=
+=D0=BD=D0=BD=D1=8B=D1=85 =D1=81 =D0=AD=D0=94=D0=9E, =D0=B8 =D0=B2=D0=B5=D0=
+=B7=D0=B4=D0=B5 =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=BF=D0=B5=D1=80=D0=B2=D0=
+=BE=D0=B3=D0=BE =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D0=BE=D0=B3=D0=
+=BE, =D1=81=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D1=81 =
+=D0=AD=D0=94=D0=9E--&gt;
+=09&lt;diadocMessageId/&gt;&lt;!--=D0=BF=D1=80=D0=B8 Converting =D1=82=D1=
+=83=D1=82 DraftId, =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 Signing - MessageId--&gt;
+=09&lt;diadocInvoiceId/&gt;
+=09&lt;diadocTorg12Id/&gt;
+=09&lt;diadocUrls&gt;
+=09=09  &lt;messageUrl/&gt;
+          &lt;invoiceUrl/&gt;
+          &lt;torg12Url/&gt;
+    &lt;/diadocUrls&gt;
+&lt;/diadocDetails&gt;</pre>=20
+</div>
+</div>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=94=D0=BE=D0=BF=D0=BE=
+=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F=D0=B8=D0=BD=D1=
+=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F=D0=B2=D0=BD=D1=83=D1=82=D1=80=
+=D0=B8=D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F=D1=81=D1=82=D0=B0=D1=
+=82=D1=83=D1=81=D0=B0"><span style=3D"color: rgb(0,0,0);">=D0=94=D0=BE=D0=
+=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=B0=D1=8F =D0=
+=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=B2=D0=BD=D1=
+=83=D1=82=D1=80=D0=B8 =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D1=
+=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0</span></h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;additionalInfo&gt;
+        &lt;additionalMessageId&gt;57477876126087&lt;/additionalMessageId&g=
+t;  &lt;!--=D0=B4=D0=BB=D1=8F =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=
+=8B=D1=85 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=
+=8E =D0=BE=D1=80=D0=B8=D0=B3=D0=B8=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=
+=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F: MessageId=
+ =D0=B8=D0=B7 =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B5=D0=B3=D0=BE =
+=D0=BE=D1=82=D0=BD=D0=BE=D1=81=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =
+=D0=BD=D0=B0=D1=81 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F, =
+=D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5 =D1=83=D1=88=D0=BB=D0=BE =D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D0=B5=D0=BB=D1=8E--&gt;
+&lt;/additionalInfo&gt;</pre>=20
+</div>
+</div>
+<p>=D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=8F =D0=BE=D1=82 =D0=BA=D0=BE=D0=
+=BD=D1=82=D1=80=D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=B0 =D1=81=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5, =D0=BC=D1=8B =D0=BA=D0=BE=D0=BD=D0=B2=D0=
+=B5=D1=80=D1=82=D0=B8=D1=80=D1=83=D0=B5=D0=BC =D0=B5=D0=B3=D0=BE =D0=B2=D0=
+=BE =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B5=D0=BD=D0=BD=D0=B8=D0=B9 =D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=D1=82, =D0=B7=D0=B0=D1=82=D0=B5=D0=BC =D0=B2 =D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0=D1=82, =D0=BD=D1=83=D0=B6=D0=BD=D1=8B=D0=B9 =D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D0=B8 =D0=B2=D1=8B=
+=D1=81=D1=8B=D0=BB=D0=B0=D0=B5=D0=BC =D0=B2=D1=82=D0=BE=D1=80=D0=BE=D0=BC=
+=D1=83 =D0=BA=D0=BE=D0=BD=D1=82=D1=80=D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D1=83. =
+=D0=94=D0=BB=D1=8F =D0=BA=D0=B0=D0=B6=D0=B4=D0=BE=D0=B3=D0=BE =D1=82=D0=B0=
+=D0=BA=D0=BE=D0=B3=D0=BE =D0=B8=D1=81=D1=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B5=
+=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=BC=
+=D1=8B =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B8=D1=80=D1=83=D0=B5=D0=BC =D1=83=
+=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9 =D0=B4=D0=BB=D1=8F =
+=D0=BD=D0=B0=D1=81 messageId (docamentId), =D0=BA=D0=BE=D1=82=D0=BE=D1=80=
+=D1=8B=D0=B9 =D0=B2=D0=BF=D0=BE=D1=81=D0=BB=D0=B5=D0=B4=D1=81=D1=82=D0=B2=
+=D0=B8=D0=B8 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D0=BC =
+=D0=BF=D1=80=D0=B8 =D0=B4=D0=B0=D0=BB=D1=8C=D0=BD=D0=B5=D0=B9=D1=88=D0=B5=
+=D0=B9 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B5 =D1=81=D0=BE=
+=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F. =D0=9A=D0=BE=D0=BD=D1=82=D1=80=
+=D0=B0=D0=B3=D0=B5=D0=BD=D1=82-=D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8C =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=
+=D1=8C messageId, =D1=83=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D0=
+=B9 =D0=B4=D0=BB=D1=8F =D1=81=D0=B2=D0=BE=D0=B5=D0=B9 =D1=83=D1=87=D0=B5=D1=
+=82=D0=BD=D0=BE=D0=B9 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B. =D0=AD=D1=
+=82=D0=BE=D1=82 Id, =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D1=8B=D0=B9 =D0=BC=D1=8B=
+ =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D0=BC =D0=B2=D0=BE =D0=B2=D1=85=
+=D0=BE=D0=B4=D1=8F=D1=89=D0=B5=D0=BC =D0=BA =D0=BD=D0=B0=D0=BC =D1=81=D0=BE=
+=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B8, =D1=83 =D0=BD=D0=B0=D1=81 =D0=
+=BD=D0=B8=D0=BA=D0=B0=D0=BA =D0=BD=D0=B5 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B8 =D0=BD=D1=83=D0=B6=D0=B5=D0=
+=BD, =D1=84=D0=B0=D0=BA=D1=82=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8, =D1=82=
+=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=81=D0=B0=D0=BC=D0=BE=D0=BC=D1=83 =D0=BA=
+=D0=BE=D0=BD=D1=82=D1=80=D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D1=83. =D0=9F=D1=80=
+=D0=BE=D0=B2=D0=B5=D1=80=D0=BE=D0=BA =D0=BD=D0=B0 =D1=83=D0=BD=D0=B8=D0=BA=
+=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D1=8C&nbsp; =D0=B4=D0=BB=D1=8F =
+=D1=8D=D1=82=D0=BE=D0=B3=D0=BE Id =D1=83 =D0=BD=D0=B0=D1=81 =D0=BD=D0=B5=D1=
+=82, =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BB=D1=8E=D0=B1=D1=8B=D0=B5 =D1=81=D1=
+=82=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D1=8B=D0=B5 =D1=81=D0=B8=D0=BC=D0=B2=D0=
+=BE=D0=BB=D1=8B, =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=
+=B8=D0=B9 =D0=BD=D0=B0 =D0=B4=D0=BB=D0=B8=D0=BD=D1=83 =D1=82=D0=B0=D0=BA=D0=
+=B6=D0=B5 =D0=BD=D0=B5=D1=82 (=D0=BA=D0=BE=D0=BD=D1=82=D1=80=D0=B0=D0=B3=D0=
+=B5=D0=BD=D1=82 =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B2=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5 =D0=BD=D0=B5 =D1=83=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D1=82=D1=
+=8C Id).</p>
+<p>=D0=92 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D1=85 =D0=BE=D1=
+=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=8E =D0=BE=D1=80=D0=
+=B8=D0=B3=D0=B8=D0=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=
+=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=BC=D1=8B =D1=83=D0=BA=D0=
+=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D0=BC =D0=BE=D0=B1=D0=B0 =D0=B8=D0=B4=D0=
+=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80=D0=B0: mess=
+ageId =D0=BA=D0=BE=D0=BD=D1=82=D1=80=D0=B0=D0=B3=D0=B5=D0=BD=D1=82=D0=B0 =
+=D0=B2&nbsp;reportItem -&gt; messageId&nbsp; =D0=B8 =D0=B4=D0=BE=D0=BF=D0=
+=BE=D0=BB=D0=BD=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE =D0=BF=D1=80=D0=
+=B8=D0=B2=D0=BE=D0=B4=D0=B8=D0=BC id, =D0=BF=D1=80=D0=B8=D1=81=D0=B2=D0=BE=
+=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D0=BD=D0=B0=D0=BC=D0=B8 =D0=B8=D1=81=D1=85=
+=D0=BE=D0=B4=D1=8F=D1=89=D0=B5=D0=BC=D1=83 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=
+=D0=B5=D0=BD=D0=B8=D1=8E, =D0=B2 =D1=82=D0=B5=D0=B3=D0=B5 additionalInfo -&=
+gt; additionalMessageId.</p>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9D=D0=B0=D0=B7=D0=B2=
+=D0=B0=D0=BD=D0=B8=D0=B5=D1=84=D0=B0=D0=B9=D0=BB=D0=B0=D1=81=D1=81=D0=BE=D0=
+=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC">=D0=9D=D0=B0=D0=B7=D0=B2=D0=
+=B0=D0=BD=D0=B8=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=81 =D1=81=D0=BE=D0=
+=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5=D0=BC<span style=3D"color: rgb(0,0,=
+0);"><br></span></h4>
+<p><span style=3D"color: rgb(51,51,51);">=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=
+=BD=D0=B8=D0=B5 =D1=84=D0=B0=D0=B9=D0=BB=D0=B0 =D1=81=D0=BE =D1=81=D1=82=D0=
+=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=BC =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D0=BD=D0=B8=D0=B5=D0=BC =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B8=D1=80=D1=
+=83=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=
+=8E=D1=89=D0=B5=D0=BC=D1=83 =D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D1=83: sta=
+te_ggggmmddhhmmss_documentType_documentNumber_UID-10.xml, =D0=B3=D0=B4=D0=
+=B5</span></p>
+<ul>
+<li><span style=3D"color: rgb(51,51,51);">state - =D0=BEk =D0=B8=D0=BB=D0=
+=B8 fail;</span></li>
+<li><span style=3D"color: rgb(51,51,51);">ggggmmddhhmmss - =D0=B2=D1=80=D0=
+=B5=D0=BC=D1=8F =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=D0=B0=D1=86=D0=B8=D0=B8 =D0=
+=BE=D1=82=D1=87=D0=B5=D1=82=D0=B0 =D1=81 =D1=82=D0=BE=D1=87=D0=BD=D0=BE=D1=
+=81=D1=82=D1=8C=D1=8E =D0=B4=D0=BE =D1=81=D0=B5=D0=BA=D1=83=D0=BD=D0=B4=D1=
+=8B;</span></li>
+<li><span style=3D"color: rgb(51,51,51);">messageId - =D0=B8=D0=B4=D0=B5=D0=
+=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D1=81=D0=BE=D0=
+=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F (=3DdocumentId);</span></li>
+<li><span style=3D"color: rgb(51,51,51);">documentType - =D1=82=D0=B8=D0=BF=
+ =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0, =D0=B8=D0=BB=D0=B8=
+ unknown ;</span></li>
+<li><span style=3D"color: rgb(51,51,51);">documentNumber - =D0=BD=D0=BE=D0=
+=BC=D0=B5=D1=80 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0, =D0=
+=B8=D0=BB=D0=B8 unknown;</span></li>
+<li><span style=3D"color: rgb(51,51,51);">UID - uid =D0=BE=D1=82=D1=87=D0=
+=B5=D1=82=D0=B0 =D0=B4=D0=BB=D0=B8=D0=BD=D0=BE=D0=B9 10.</span></li>
+</ul>
+<p><span style=3D"color: rgb(51,51,51);">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=
+=80 =D0=BD=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F: ok_20121208191434_INV=
+OIC_3234324_sdIsdsdfm2.xml.</span></p>
+<h3 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=9F=D1=80=D0=B8=D0=BC=
+=D0=B5=D1=80=D1=8B=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B9">=
+=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D1=8B =D1=81=D0=BE=D0=BE=D0=B1=D1=89=
+=D0=B5=D0=BD=D0=B8=D0=B9</h3>
+<p><span class=3D"confluence-anchor-link" id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=
+=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=
+=B8=D1=8F-ReadOk"></span></p>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D0=BE=D0=BE=D0=B1=
+=D1=89=D0=B5=D0=BD=D0=B8=D0=B5ReadOk">=D0=A1=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=
+=D0=BD=D0=B8=D0=B5 Read Ok</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeHeader panelHeader pdl" style=3D"border-bottom-width: 1px=
+;">
+<b>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=
+=B5=D0=BD=D0=B8=D1=8F Ok</b>
+</div>
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;?xml version=3D"1.0" encoding=3D"utf-8"?&gt;
+&lt;statusReport&gt;
+  &lt;reportDateTime&gt;2013-01-24T10:30:55.149&lt;/reportDateTime&gt;
+  &lt;reportRecipient&gt;2574857485740&lt;/reportRecipient&gt;  &lt;!--=D0=
+=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D1=8C Orders, NAD=
++BY =D0=98=D0=9F =C2=AB=D0=9E=D0=B3=D0=BB=D0=BE=D0=B1=D0=BB=D0=B8=D0=BD=C2=
+=BB--&gt;
+  &lt;reportItem&gt;
+   &lt;reportItem&gt;
+    &lt;messageId&gt;b67d088fd788470a95343511b52bcb87&lt;/messageId&gt;
+    &lt;messageSender&gt;2574857485740&lt;/messageSender&gt;
+    &lt;messageRecepient&gt;2389203920932&lt;/messageRecepient&gt;
+    &lt;documentType&gt;Ordrsp&lt;/documentType&gt;
+    &lt;documentNumber&gt;00000000006&lt;/documentNumber&gt;
+    &lt;documentDate&gt;2013-01-24&lt;/documentDate&gt;
+    &lt;statusItem&gt;
+      &lt;dateTime&gt;2013-01-24T10:30:55.149&lt;/dateTime&gt;
+      &lt;stage&gt;Delivery&lt;/stage&gt;
+      &lt;state&gt;Ok&lt;/state&gt;
+      &lt;description&gt;=D0=A1=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=
+=D0=B5 =D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=BE&lt;/des=
+cription&gt;
+    &lt;/statusItem&gt;
+  &lt;/reportItem&gt;
+&lt;/statusReport&gt;</pre>=20
+</div>
+</div>
+<p><span class=3D"confluence-anchor-link" id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=
+=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=
+=B8=D1=8F-ProcessingFail"></span></p>
+<h4 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D0=BE=D0=BE=D0=B1=
+=D1=89=D0=B5=D0=BD=D0=B8=D0=B5ProcessingFail">=D0=A1=D0=BE=D0=BE=D0=B1=D1=
+=89=D0=B5=D0=BD=D0=B8=D0=B5 Processing Fail</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeHeader panelHeader pdl" style=3D"border-bottom-width: 1px=
+;">
+<b>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BC=D0=B8=D0=BD=D0=B8=D0=BC=D0=
+=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B3=D0=BE Processing Fail </b>
+</div>
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: html/xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt=
+;?xml version=3D"1.0" encoding=3D"utf-8" ?&gt;=20
+&lt;statusReport&gt;
+    &lt;reportDateTime&gt;2012-12-11T15:31:56.008&lt;/reportDateTime&gt;=20
+    &lt;reportRecipient&gt;9320932093200&lt;/reportRecipient&gt;=20
+    &lt;reportItem&gt;
+        &lt;messageSender&gt;9320932093200&lt;/messageSender&gt;=20
+        &lt;statusItem&gt;
+            &lt;dateTime&gt;2012-12-11T15:31:56.008&lt;/dateTime&gt;=20
+            &lt;stage&gt;Processing&lt;/stage&gt;=20
+            &lt;state&gt;Fail&lt;/state&gt;=20
+            &lt;description&gt;=D0=92 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=
+=D0=BD=D0=B8=D0=B8 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D1=8B =D0=BE=D1=88=
+=D0=B8=D0=B1=D0=BA=D0=B8&lt;/description&gt;=20
+            &lt;error&gt;=D0=9D=D0=B5=D0=B2=D0=BE=D0=B7=D0=BC=D0=BE=D0=B6=
+=D0=BD=D0=BE =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D0=B8=D1=82=D1=8C =
+=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=
+=D0=BD=D0=B8=D1=8F&lt;/error&gt;=20
+        &lt;/statusItem&gt;
+    &lt;/reportItem&gt;
+&lt;/statusReport&gt;</pre>=20
+</div>
+</div>
+<h3 id=3D"id-=D0=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F-=D0=A1=D1=82=D0=B0=D1=82=
+=D1=83=D1=81=D0=BD=D1=8B=D0=B5=D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=
+=B8=D1=8F=D0=BE=D1=82=D0=BA=D0=BB=D0=B8=D0=B5=D0=BD=D1=82=D0=BE=D0=B2">=D0=
+=A1=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=BE=D1=82 =D0=BA=D0=BB=D0=B8=D0=B5=D0=
+=BD=D1=82=D0=BE=D0=B2</h3>
+<p>=D0=92=D1=81=D0=B5 =D0=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=BD=D1=8B=D0=
+=B5 =D0=B2=D1=8B=D1=88=D0=B5 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BD=D1=
+=8B=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D1=84=D0=
+=BE=D1=80=D0=BC=D0=B8=D1=80=D1=83=D0=B5=D1=82 =D1=81=D0=B8=D1=81=D1=82=D0=
+=B5=D0=BC=D0=B0, =D1=81=D1=82=D0=BE=D1=80=D0=BE=D0=BD=D1=8B EDI-=D0=BE=D0=
+=B1=D0=BC=D0=B5=D0=BD=D0=B0 =D0=BC=D0=BE=D0=B3=D1=83=D1=82 =D1=84=D0=BE=D1=
+=80=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=81=D1=82=D0=B0=D1=
+=82=D1=83=D1=81=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=
+=BD=D0=B8=D1=8F =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B8=D1=85 =D1=
+=82=D0=B8=D0=BF=D0=BE=D0=B2:</p>
+<ul>
+<li>Read Ok (=D1=81 =D0=B8=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=
+=D0=B5=D0=B9 =D0=BE =D0=BF=D1=80=D0=BE=D1=87=D1=82=D0=B5=D0=BD=D0=B8=D0=B8 =
+=D0=B2=D1=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B5=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=
+=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F);</li>
+<li>Checking Ok, Checking Fail (=D1=81 =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=
+=D1=82=D0=B0=D1=82=D0=B0=D0=BC=D0=B8 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=
+=D0=BA=D0=B8 =D0=B2=D1=85=D0=BE=D0=B4=D1=8F=D1=89=D0=B5=D0=B3=D0=BE =D1=81=
+=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F).</li>
+</ul>
+<p>=D0=9F=D0=BE=D1=81=D0=BB=D0=B5 =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=
+=BD=D0=B8=D1=8F =D1=82=D0=B0=D0=BA=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=BE=D0=
+=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F =D0=BC=D1=8B =D0=BE=D0=BF=D1=80=D0=B5=D0=
+=B4=D0=B5=D0=BB=D1=8F=D0=B5=D0=BC =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=
+=BD=D0=B8=D0=B5, =D0=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =
+=D0=BE=D1=82=D0=BD=D0=BE=D1=81=D0=B8=D1=82=D1=81=D1=8F =D1=81=D1=82=D0=B0=
+=D1=82=D1=83=D1=81=D0=BD=D0=BE=D0=B5 =D0=BF=D0=BE messageId =D0=BF=D0=BE=D1=
+=81=D0=BB=D0=B0=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BD=D0=B0=D0=BC=D0=B8 =D1=
+=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F. =D0=9F=D1=80=D0=B8 =D1=
+=8D=D1=82=D0=BE=D0=BC =D0=B2 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B0=D1=
+=85 Edifact, EancomXML, EdiXML =D0=BC=D1=8B =D0=B3=D0=B5=D0=BD=D0=B5=D1=80=
+=D0=B8=D0=BC messageId =D0=B8 =D1=83=D0=BA=D0=B0=D0=B7=D1=8B=D0=B2=D0=B0=D0=
+=B5=D0=BC =D0=B2 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B8 (=
+=D0=B2 =D1=81=D0=B5=D0=B3=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=85 UNB, UNH, Int=
+erchangeHeader =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=
+=D0=B5=D0=BD=D0=BD=D0=BE). =D0=92 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=
+=B5 =D0=9A=D0=BE=D1=80=D1=83=D1=81=D0=B0 =D0=BC=D1=8B&nbsp; messageId =D0=
+=BD=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=B5=D0=BC, =D0=BF=D0=BE=D1=
+=8D=D1=82=D0=BE=D0=BC=D1=83 =D0=BE=D0=BD=D0=BE =D0=B3=D0=B5=D0=BD=D0=B5=D1=
+=80=D0=B8=D1=80=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE =D0=BF=D1=80=D0=
+=B0=D0=B2=D0=B8=D0=BB=D1=83 DocumentType_DocumentNumber_DocumentDate =D0=B2=
+ =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5 dd-mm-yyyy, =D0=BD=D0=B0=D0=BF=
+=D1=80=D0=B8=D0=BC=D0=B5=D1=80 "Orders_121_24-12-2013".</p>
+    </div>
+</body>
+</html>
+------=_Part_458105_1363249741.1619030044878--
