@@ -73,7 +73,8 @@ function getGuideSidebar() {
           { text: 'Информация по заказам', link: '/guide/order/status' }
         ] },
         { text: 'Ответственное хранение', link: '/guide/custodian' },
-        { text: 'Претензии', link: '/guide/claims' }
+        { text: 'Претензии', link: '/guide/claims' },
+        { text: 'EDI', link: '/guide/edi' }
       ]
     },
     {
