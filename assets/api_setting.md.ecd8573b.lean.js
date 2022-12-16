@@ -1,0 +1,1 @@
+import{o as t,c as o,d as e}from"./app.f9a2ae62.js";const n='{"title":"Предварительные настройки интеграции с API НЛМК Connect","description":"","frontmatter":{},"relativePath":"api/setting.md","lastUpdated":1671194362213}',c={},l=e('',9);c.render=function(e,n,c,a,s,p){return t(),o("div",null,[l])};export default c;export{n as __pageData};

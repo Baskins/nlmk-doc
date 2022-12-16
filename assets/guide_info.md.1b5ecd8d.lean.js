@@ -1,0 +1,1 @@
+import{o as i,c as e,d as l}from"./app.f9a2ae62.js";const a='{"title":"Зачем нужен личный кабинет?","description":"","frontmatter":{},"relativePath":"guide/info.md","lastUpdated":1671194362217}',t={},r=l('',3);t.render=function(l,a,t,d,n,o){return i(),e("div",null,[r])};export default t;export{a as __pageData};
