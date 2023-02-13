@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '/doc',
   lang: 'ru-RU',
   title: 'Клиент инфо 2',
   description: 'Документация личного кабинета для оптовых клиентов НЛМК.',
